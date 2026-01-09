@@ -40,5 +40,6 @@ environments, changes should be scheduled during maintenance windows.
 
 **Instance running successfully**
 
-![Instance Running Successfully](screenshots/IMG_5612.png)### Instance running successfully
-![Instance running successfully](./screenshots/uc2/IMG_5512.png)
+![Instance Running Successfully](screenshots/IMG_5612.png)
+![Instance Running Successfully](screenshots/IMG_5612.png)
+enshots/uc2/IMG_5512.png)
