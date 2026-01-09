@@ -34,8 +34,11 @@ environments, changes should be scheduled during maintenance windows.
 
 ## Evidence
 
-### Instance type changed to t2.nano
-![Instance type changed to t2.nano](./screenshots/uc2/IMG_5509.png)
+**Instance type changed to t2.nano**
 
-### Instance running successfully
+![Instance Type Changed](screenshots/IMG_5609.png)
+
+**Instance running successfully**
+
+![Instance Running Successfully](screenshots/IMG_5612.png)### Instance running successfully
 ![Instance running successfully](./screenshots/uc2/IMG_5512.png)
