@@ -30,5 +30,14 @@ adequate performance.
 
 ### Key Learning
 EC2 instance type changes require planned downtime. In production
-environments, changes should be scheduled during maintenance windows.
+
+## Evidence
+
+**Instance type changed to t2.nano**
+
+![Instance Type Changed](screenshots/IMG_5509.png)
+
+**Instance running successfully**
+
+![Instance Running Successfully](screenshots/IMG_5512.png)environments, changes should be scheduled during maintenance windows.
 
